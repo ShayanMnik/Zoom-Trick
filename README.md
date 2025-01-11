@@ -1,6 +1,6 @@
 # Zoom
 
-![FreshBooks](https://github.com/user-attachments/assets/605faefb-0af1-41ea-9005-4b89ad89409b)
+![Screenshot (8)](https://github.com/user-attachments/assets/64694e70-3a4e-4e10-ae31-c132525ae9a8)
 
 - [Demo Project](https://shayanmnik.github.io/FreshBooks/)
 
